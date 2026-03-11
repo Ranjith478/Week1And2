@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem10_Multi-LevelCacheSystemwithHashTables/Problem10_Multi-LevelCacheSystemwithHashTables.iml" filepath="$PROJECT_DIR$/Practice/Problem10_Multi-LevelCacheSystemwithHashTables/Problem10_Multi-LevelCacheSystemwithHashTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem1_SocialMediaUsernameAvailabilityChecker/Problem1_SocialMediaUsernameAvailabilityChecker.iml" filepath="$PROJECT_DIR$/Practice/Problem1_SocialMediaUsernameAvailabilityChecker/Problem1_SocialMediaUsernameAvailabilityChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem2_E-commerceFlashSaleInventoryManager/Problem2_E-commerceFlashSaleInventoryManager.iml" filepath="$PROJECT_DIR$/Practice/Problem2_E-commerceFlashSaleInventoryManager/Problem2_E-commerceFlashSaleInventoryManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem3_DNSCachewithTTL/Problem3_DNSCachewithTTL.iml" filepath="$PROJECT_DIR$/Practice/Problem3_DNSCachewithTTL/Problem3_DNSCachewithTTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem4_PlagiarismDetectionSystem/Problem4_PlagiarismDetectionSystem.iml" filepath="$PROJECT_DIR$/Practice/Problem4_PlagiarismDetectionSystem/Problem4_PlagiarismDetectionSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem5_RealTimeAnalyticsDashboardforWebsiteTraffic/Problem5_RealTimeAnalyticsDashboardforWebsiteTraffic.iml" filepath="$PROJECT_DIR$/Practice/Problem5_RealTimeAnalyticsDashboardforWebsiteTraffic/Problem5_RealTimeAnalyticsDashboardforWebsiteTraffic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem6_DistributedRateLimiterforAPIGateway/Problem6_DistributedRateLimiterforAPIGateway.iml" filepath="$PROJECT_DIR$/Practice/Problem6_DistributedRateLimiterforAPIGateway/Problem6_DistributedRateLimiterforAPIGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem7_AutocompleteSystemforSearchEngine/Problem7_AutocompleteSystemforSearchEngine.iml" filepath="$PROJECT_DIR$/Practice/Problem7_AutocompleteSystemforSearchEngine/Problem7_AutocompleteSystemforSearchEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem8_ParkingLotManagementwithOpenAddressing/Problem8_ParkingLotManagementwithOpenAddressing.iml" filepath="$PROJECT_DIR$/Practice/Problem8_ParkingLotManagementwithOpenAddressing/Problem8_ParkingLotManagementwithOpenAddressing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Problem9_Two-SumProblemVariantsforFinancialTransactions/Problem9_Two-SumProblemVariantsforFinancialTransactions.iml" filepath="$PROJECT_DIR$/Practice/Problem9_Two-SumProblemVariantsforFinancialTransactions/Problem9_Two-SumProblemVariantsforFinancialTransactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week1And2.iml" filepath="$PROJECT_DIR$/.idea/Week1And2.iml" />
+    </modules>
+  </component>
+</project>
